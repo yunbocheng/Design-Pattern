@@ -42,6 +42,6 @@ public abstract class OrganizationComponent{
     // 打印方法设置为抽象方法，因为叶子类也要进行打印，需要覆盖重写这个方法
     protected abstract void print();
 
-
 }
+
 

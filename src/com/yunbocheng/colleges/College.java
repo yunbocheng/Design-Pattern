@@ -3,6 +3,7 @@ package com.yunbocheng.colleges;
 import java.util.ArrayList;
 import java.util.List;
 
+
 /*这是是一个院系类*/
 public class College extends OrganizationComponent{
 
